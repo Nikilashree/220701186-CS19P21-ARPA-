@@ -1,0 +1,2 @@
+New-Item -Path colleges/ -Name "REC.txt" -ItemType "File" -Value "Rajalakshmi Engineering College" -Force
+New-Item -Path colleges/ -Name "RIT.txt" -ItemType "File" -Value "Rajalakshmi Institute Of Technology" -Force
